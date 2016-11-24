@@ -38,6 +38,7 @@
                 android:textAppearance="?android:attr/textAppearanceLarge" />
 
             <ImageView
+                android:contentDescription="safasfs"
                 android:id="@+id/ivPicture"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
