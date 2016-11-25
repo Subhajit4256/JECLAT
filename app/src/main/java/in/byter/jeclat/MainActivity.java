@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+        startService(new Intent(getApplicationContext(), MyService.class));
 
 
         /*Button button = (Button)findViewById(R.id.btn);
